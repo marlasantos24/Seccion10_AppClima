@@ -8,37 +8,37 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvGrados"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="120dp"
-        android:layout_marginBottom="411dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="414dp"
         android:text="@string/texto_grados"
-        android:textColor="@color/color_grados"
+        android:textColor="@color/white"
         android:textSize="72sp" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvCiudad"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="43dp"
-        android:layout_marginBottom="356dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="355dp"
         android:text="@string/texto_ciudad"
         android:textColor="@color/color_ciudad"
         android:textSize="30sp" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/tvEstatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="143dp"
-        android:layout_marginBottom="297dp"
+        android:layout_marginEnd="129dp"
+        android:layout_marginBottom="280dp"
         android:text="@string/texto_estatus"
         android:textColor="@color/color_estatus"
         android:textSize="24sp" />

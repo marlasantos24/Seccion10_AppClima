@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">AppClima</string>
+    <string name="app_name">Clima</string>
     <string name="texto_grados">23°</string>
     <string name="texto_ciudad">Felipe Carrillo Puerto</string>
     <string name="texto_estatus">Nublado</string>
+
+    <string name="texto_bienvenida">Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona la opción de abajo</string>
+    <string name="texto_boton_carrillo">Clima de la cuidad de Felipe Carrillo Puerto</string>
+    <string name="texto_boton_venecia">Clima de la cuidad de Venecia</string>
 </resources>
