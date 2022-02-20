@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppClima</string>
+    <string name="texto_grados">23°</string>
+    <string name="texto_ciudad">Felipe Carrillo Puerto</string>
+    <string name="texto_estatus">Nublado</string>
 </resources>
