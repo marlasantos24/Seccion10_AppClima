@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.Toast
 
 class Ciudades : AppCompatActivity() {
-    val TAG = "com.vidamrr.appclima.cuidades.CIUDAD"
+    val TAG = "com.example.appclima.cuidades.CIUDAD"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
