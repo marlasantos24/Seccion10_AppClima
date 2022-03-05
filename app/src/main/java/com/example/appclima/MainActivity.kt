@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
 
         if (Network.hayRed(this)) {
             //Toast.makeText(this,"Si hay Red", Toast.LENGTH_LONG).show()
-            solicitudHTTPVolley("http://api.openweathermap.org/data/2.5/weather?id=3527639&appid=fcb4bf74b2ec0bb39d6c08bb68ebc28d")
+            solicitudHTTPVolley("http://api.openweathermap.org/data/2.5/weather?id="+ciudad+"&appid=fcb4bf74b2ec0bb39d6c08bb68ebc28d&units=metric&lang=es")
             //fcb4bf74b2ec0bb39d6c08bb68ebc28d
             //FCP 3527639
 
